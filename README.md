@@ -24,7 +24,7 @@
 * MVVM Architecture
 * Combine Framework
 * Pure SwiftUI Framework
-* Firebase Firestore
+* Firebase Firestore database
 * Firebase Cloud Functions
 * OneSignal used for push notifications
 * RevenueCat used for IAP
