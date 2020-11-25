@@ -12,7 +12,7 @@
 
 [Shifti Website](https://www.shiftiapp.com)
 
-Shifti is a project that I created to use as a personal staff managment tool when I was working as a shift manager at a local electronics store.
+Shifti is a project that I created to use as a personal staff management tool when I was working as a shift manager at a local electronics store.
 This includes - Programming, App Design, and UI/UX.
 
 #### Features:
