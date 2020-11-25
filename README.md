@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/37900883/100262089-597c2a80-2f54-11eb-8c6d-5914af2df431.png" width="75" />
 </p>
 
-# Shifti - Staff Schedualing App 
+# Shifti - Staff Scheduling App 
 
 <p align="left"> <a href="https://apps.apple.com/app/id1535833509" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="100" ></a>
 </p>
