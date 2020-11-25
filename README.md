@@ -19,7 +19,7 @@
 * Pure SwiftUI Framework
 * Firebase Firestore
 * Firebase Cloud Functions
-* OneSignal used for notifications
+* OneSignal used for push notifications
 * RevenueCat used for IAP
 * Mailchimp
 * AdMob
