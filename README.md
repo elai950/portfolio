@@ -6,13 +6,13 @@
 </p>
 
 #### Features:
-* Schedule a work week
+* Schedule a workweek with all employees requests automatically assigned
 * Share files with all team members
-* Create custom goals and easy pre-made calculations
-* Customize your own goals view and decide which goal to display and how
+* Create custom goals with your own calculations
+* Customize the team goals view and decide which goal to display and how
 * Exchange shifts between employees with/without manager approval
 * Create your own shift types and clock
-* Creating custom positions
+* Create custom positions
 * See info for the whole week with work time, shifts amount and dates for each employee
 
 #### Technologies:
