@@ -10,6 +10,8 @@
 <p align="left"> <a href="https://apps.apple.com/app/id1535833509" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="100" ></a>
 </p>
 
+[Shifti Website](https://www.shiftiapp.com)
+
 #### Features:
 * Schedule a workweek with all employees requests automatically assigned
 * Share files with all team members
