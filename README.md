@@ -12,6 +12,9 @@
 
 [Shifti Website](https://www.shiftiapp.com)
 
+Shifti is a project that I created to use as a personal staff managment tool. After some time it became popular with my coworkers.
+This includes - Programming, App Design, and UI/UX.
+
 #### Features:
 * Schedule a workweek with all employees requests automatically assigned
 * Share files with all team members
