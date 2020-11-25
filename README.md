@@ -25,9 +25,9 @@
 * AdMob
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/37900883/100257528-aceb7a00-2f4e-11eb-943d-634ecef17a39.jpg" width="180" />
-  <img src="https://user-images.githubusercontent.com/37900883/100257830-0784d600-2f4f-11eb-9f54-aa755b7259c5.jpg" width="180" /> 
-  <img src="https://user-images.githubusercontent.com/37900883/100257845-0b185d00-2f4f-11eb-9ac5-37e42765c729.jpg" width="180" />
-  <img src="https://user-images.githubusercontent.com/37900883/100257850-0ce22080-2f4f-11eb-998f-dde806da4c66.jpg" width="180" />
-  <img src="https://user-images.githubusercontent.com/37900883/100257854-0eabe400-2f4f-11eb-8567-c56f37008ae8.jpg" width="180" />
+  <img src="https://user-images.githubusercontent.com/37900883/100257528-aceb7a00-2f4e-11eb-943d-634ecef17a39.jpg" width="150" />
+  <img src="https://user-images.githubusercontent.com/37900883/100257830-0784d600-2f4f-11eb-9f54-aa755b7259c5.jpg" width="150" /> 
+  <img src="https://user-images.githubusercontent.com/37900883/100257845-0b185d00-2f4f-11eb-9ac5-37e42765c729.jpg" width="150" />
+  <img src="https://user-images.githubusercontent.com/37900883/100257850-0ce22080-2f4f-11eb-998f-dde806da4c66.jpg" width="150" />
+  <img src="https://user-images.githubusercontent.com/37900883/100257854-0eabe400-2f4f-11eb-8567-c56f37008ae8.jpg" width="150" />
 </p>
