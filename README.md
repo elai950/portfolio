@@ -5,17 +5,19 @@
 <p align="left"> <a href="https://apps.apple.com/app/id1535833509" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="100" ></a>
 </p>
 
-#### Shifti is a staff scheduling managing app that allows:
-* Schedule Work weeks
-* Files shares with all team members
-* Create custom goals and custom calculations
+#### Features:
+* Schedule a work week
+* Share files with all team members
+* Create custom goals and easy pre-made calculations
+* Customize your own goals view and decide which goal to display and how
 * Exchange shifts between employees with/without manager approval
 * Create your own shift types and clock
-* Creating specific positions for each employee
-* Check a summary for the whole week with work time, shifts amount and dates for each employee
+* Creating custom positions
+* See info for the whole week with work time, shifts amount and dates for each employee
 
 #### Technologies:
 * MVVM Architecture
+* Combine Framework
 * Pure SwiftUI Framework
 * Firebase Firestore
 * Firebase Cloud Functions
